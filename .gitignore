@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 # Archivos de Windows
 desktop.ini
+# Archivos de configuración privada
+.env
+.env.*
+!.env.example
