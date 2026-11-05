@@ -1,19 +1,20 @@
-AseoClick
+# AseoClick
 Reporta, participa, transforma.
 
-Descripción del proyecto
+## Descripción del proyecto
 
-AseoClick es un proyecto de aplicación móvil orientado al reporte y seguimiento de microbasureros urbanos.
+AseoClick es un proyecto de software orientado al desarrollo de una aplicación móvil para el reporte y seguimiento de microbasureros urbanos.
+
 
 Su propósito es facilitar la participación ciudadana mediante una plataforma digital que permita registrar situaciones relacionadas con la acumulación inadecuada de residuos y consultar el estado de los reportes.
 
 El proyecto contempla la participación de ciudadanos, autoridad municipal, empresa de aseo y administrador del sistema.
 
-Objetivo
+## Objetivo
 
 Implementar una plataforma digital de reporte ambiental, soportada por un sistema centralizado, que permita a los ciudadanos reportar microbasureros urbanos y recibir retroalimentación eficiente, en el cual las autoridades municipales puedan gestionar, clasificar y dar seguimiento a los reportes de los ciudadanos de manera oportuna y transparente.
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 
 El frontend del proyecto se desarrolla utilizando:
 
@@ -25,7 +26,7 @@ CSS
 
 Nota: Actualmente, el repositorio contiene el desarrollo del frontend. La implementación del backend y la conexión con la base de datos corresponden a etapas posteriores del proyecto.
 
-Requisitos previos
+## Requisitos previos
 
 Para ejecutar el proyecto localmente se necesita:
 
@@ -55,7 +56,7 @@ npm run dev
 
 Abrir en el navegador la dirección local que indique Vite en la terminal.
 
-Funcionalidades del proyecto
+## Funcionalidades del proyecto
 
 El diseño de AseoClick contempla las siguientes funcionalidades:
 
@@ -70,6 +71,6 @@ Notificaciones sobre cambios de estado.
 
 Estas funcionalidades forman parte del alcance del proyecto y no necesariamente se encuentran implementadas en su totalidad en la versión actual del frontend.
 
-Control de versiones
+## Control de versiones
 
 El proyecto utiliza Git para registrar los cambios realizados durante el desarrollo y GitHub para alojar el repositorio remoto.
