@@ -74,3 +74,7 @@ Estas funcionalidades forman parte del alcance del proyecto y no necesariamente 
 ## Control de versiones
 
 El proyecto utiliza Git para registrar los cambios realizados durante el desarrollo y GitHub para alojar el repositorio remoto.
+
+## Mejoras del frontend
+
+Esta rama se utiliza para realizar mejoras en la interfaz y la experiencia de usuario de AseoClick.
