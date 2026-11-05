@@ -1,16 +1,75 @@
-# React + Vite
+AseoClick
+Reporta, participa, transforma.
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Descripción del proyecto
 
-Currently, two official plugins are available:
+AseoClick es un proyecto de aplicación móvil orientado al reporte y seguimiento de microbasureros urbanos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Su propósito es facilitar la participación ciudadana mediante una plataforma digital que permita registrar situaciones relacionadas con la acumulación inadecuada de residuos y consultar el estado de los reportes.
 
-## React Compiler
+El proyecto contempla la participación de ciudadanos, autoridad municipal, empresa de aseo y administrador del sistema.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Objetivo
 
-## Expanding the Oxlint configuration
+Implementar una plataforma digital de reporte ambiental, soportada por un sistema centralizado, que permita a los ciudadanos reportar microbasureros urbanos y recibir retroalimentación eficiente, en el cual las autoridades municipales puedan gestionar, clasificar y dar seguimiento a los reportes de los ciudadanos de manera oportuna y transparente.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Tecnologías utilizadas
+
+El frontend del proyecto se desarrolla utilizando:
+
+React
+Vite
+JavaScript
+HTML
+CSS
+
+Nota: Actualmente, el repositorio contiene el desarrollo del frontend. La implementación del backend y la conexión con la base de datos corresponden a etapas posteriores del proyecto.
+
+Requisitos previos
+
+Para ejecutar el proyecto localmente se necesita:
+
+Node.js
+npm
+Visual Studio Code u otro editor de código
+Git (opcional para ejecutar el proyecto, necesario para gestionar versiones)
+Instalación y ejecución
+
+1. Clonar el repositorio
+
+git clone <URL_DEL_REPOSITORIO>
+
+2. Ingresar a la carpeta del proyecto
+
+cd AseoClick-Frontend
+
+3. Instalar las dependencias
+
+npm install
+
+4. Iniciar el servidor de desarrollo
+
+npm run dev
+
+5. Abrir la aplicación
+
+Abrir en el navegador la dirección local que indique Vite en la terminal.
+
+Funcionalidades del proyecto
+
+El diseño de AseoClick contempla las siguientes funcionalidades:
+
+Registro e inicio de sesión de usuarios.
+Creación de reportes de microbasureros.
+Consulta y visualización de reportes.
+Clasificación y priorización de reportes.
+Registro de acciones de limpieza.
+Seguimiento del estado de los reportes.
+Visualización de reportes en un mapa.
+Notificaciones sobre cambios de estado.
+
+Estas funcionalidades forman parte del alcance del proyecto y no necesariamente se encuentran implementadas en su totalidad en la versión actual del frontend.
+
+Control de versiones
+
+El proyecto utiliza Git para registrar los cambios realizados durante el desarrollo y GitHub para alojar el repositorio remoto.
